@@ -20,7 +20,6 @@ contract Kaseicoin is ERC20, ERC20Detailed, ERC20Mintable {
             symbol, 
             18
         ) public {
-        mint(msg.sender, initial_supply);
     }
 
 
