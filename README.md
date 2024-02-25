@@ -2,7 +2,9 @@
 ###Create ERC20 Token, Launch Crowdsale, Extend Crowdsale on testnet
 
 ### Instructions
+My Coins contract is located in "Src" and is "KaseiCoin.sol". The Deployer and Crowdsale contracts are also in "Src" in the "KaseiCoinCrowdsale.sol" file. 
 
+This code was compiled and deployed using Remix IDE, testnet was using ganache and the wallet used was Metamask.
 
 
 ### Project Results:
